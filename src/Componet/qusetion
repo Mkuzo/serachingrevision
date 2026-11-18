@@ -1,0 +1,36 @@
+// const school = [
+//     {
+//         id: 1,
+//         className: "Grade 6",
+//         students: [
+//             { name: "John", marks: [70, 85, 90] },
+//             { name: "Mary", marks: [45, 60, 75] },
+//             { name: "Peter", marks: [80, 90, 95] }
+//         ]
+//     },
+//     {
+//         id: 2,
+//         className: "Grade 7",
+//         students: [
+//             { name: "Grace", marks: [90, 95, 88] },
+//             { name: "David", marks: [35, 45, 50] },
+//             { name: "Sarah", marks: [65, 75, 80] }
+//         ]
+//     },
+//     {
+//         id: 3,
+//         className: "Grade 8",
+//         students: [
+//             { name: "James", marks: [55, 60, 70] },
+//             { name: "Alice", marks: [95, 90, 85] },
+//             { name: "Brian", marks: [40, 50, 60] }
+//         ]
+//     }
+// ];
+
+// Tasks:
+// 1. Display all classes and their students.
+// 2. Create an input to search for a student by name.
+// 3. Search for students who scored above 80 in at least one subject.
+// 4. Search for students who scored between 60 and 80 in all subjects.
+// 5. Search for
